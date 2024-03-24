@@ -1,5 +1,5 @@
 import { CssBaseline } from "@mui/material";
-import LoginForm from "./components/LoginForm.tsx/LoginForm";
+import LoginForm from "./components/LoginForm/LoginForm";
 import Navbar from "./components/navbar/Navbar";
 import { ThemeProvider } from "@mui/material/styles";
 import theme from "./theme/theme";
